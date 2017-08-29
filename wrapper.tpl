@@ -1,3 +1,4 @@
+{* Основная обертка контента *}
 <div class="viewport body">
   {* Мобильное меню *}
   <div class="slide-menu">
